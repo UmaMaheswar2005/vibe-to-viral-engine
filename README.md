@@ -12,7 +12,7 @@ pinned: false
 An enterprise-grade, microservice-based audio analysis engine designed for A&R executives. It analyzes raw audio files using C++ digital signal processing, extracts sonic metadata (BPM, Texture), and leverages a Large Language Model to generate precise, data-driven viral marketing strategies.
 
 ## 🚀 Live Demo
-**[Launch the Web Application on Hugging Face Spaces]**(Put your Hugging Face URL here)
+**[Launch the Web Application on Hugging Face Spaces]**(https://huggingface.co/spaces/Mahi275/Vibe-to-Viral-Engine)
 
 ## 🧠 System Architecture
 
