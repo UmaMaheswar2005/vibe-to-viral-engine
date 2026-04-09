@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.wav
+*.mp3
+cpp_dsp/build/
+rust_scraper/target/
+go_gateway/main
+python_ai/venv/
+python_ai/final_hooks.json
+python_ai/splicer_log.txt
+.DS_Storego_gateway/main
+go_gateway/main

@@ -1,0 +1,20 @@
+{
+  "platforms": {
+    "tiktok_reels": [
+      "High-Energy Transition Hooks",
+      "Cinematic Atmosphere / Slow-Burn",
+      "Lo-fi / Chill Aesthetic",
+      "Fast-Paced Lyric Overlays"
+    ],
+    "spotify_apple": [
+      "Editorial 'New Music' Curations",
+      "Mood-Based Playlisting (Focus, Workout, Melancholy)",
+      "Global Fusion / Cross-Border Collaborations"
+    ],
+    "streaming_trends": [
+      "High-Fidelity Spatial Audio",
+      "Short-Form Radio Edits (Sub 2:30)",
+      "Independent Artist 'Viral-to-Chart' Pipelines"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  vibe-engine:
+    build: .
+    ports:
+      - "7860:7860" 
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - IS_DOCKER=true 
+      - PYTHONUNBUFFERED=1

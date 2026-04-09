@@ -1,0 +1,15 @@
+# --- Core UI ---
+streamlit==1.42.0
+requests==2.32.3
+python-dotenv==1.0.1
+
+# --- Music Information Retrieval (The Brain) ---
+librosa==0.11.0
+numpy==2.2.2
+soundfile==0.13.1
+scipy==1.15.1
+
+# --- Python 3.13 Audio Compatibility Patches ---
+audioop-lts==0.2.2
+standard-aifc==3.13.0
+standard-chunk==3.13.0
