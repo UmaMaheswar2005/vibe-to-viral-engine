@@ -1,12 +1,22 @@
-.env
-__pycache__/
+# Git and metadata
+.git
+.gitignore
+.DS_Store
+
+# Large Audio Files (Crucial to keep image size small)
 *.wav
 *.mp3
+
+# Local Build Artifacts (Cloud will build its own)
 cpp_dsp/build/
 rust_scraper/target/
 go_gateway/main
+
+# Python Environment
+__pycache__/
 python_ai/venv/
 python_ai/final_hooks.json
 python_ai/splicer_log.txt
-.DS_Store
-go_gateway/main
+
+# Environment Secrets
+.env
