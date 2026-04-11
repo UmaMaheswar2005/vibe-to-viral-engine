@@ -6,12 +6,12 @@ import glob
 import time
 
 # --- CONFIG ---
-st.set_page_config(page_title="Vibe-to-Viral Expert", page_icon="🎙️", layout="wide")
+st.set_page_config(page_title="Yombo Vibe-to-Viral", page_icon="🎙️", layout="wide")
 
 # API Gateway End Point
 API_URL = "http://127.0.0.1:8080/optimize" 
 
-st.title("🎙️ Vibe-to-Viral: Enterprise Audit")
+st.title("🎙️ Yombo Vibe-to-Viral: Enterprise Audit")
 
 uploaded_file = st.file_uploader("Upload Master Track (WAV)", type="wav")
 
