@@ -36,5 +36,5 @@ This application is fully containerized. You do not need to install C++, Go, or 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/UmaMaheswar2005/vibe-to-viral-engine.git](https://github.com/UmaMaheswar2005/vibe-to-viral-engine.git)
+   git clone https://github.com/UmaMaheswar2005/vibe-to-viral-engine.git
    cd vibe-to-viral-engine
